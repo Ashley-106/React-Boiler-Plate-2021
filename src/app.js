@@ -1,6 +1,6 @@
 import React from 'react';
 import reactDOM from 'react-dom';
-import './styles/base.scss';
+import './styles/base/base.scss';
 
 const Template = () => {
     return <div>
